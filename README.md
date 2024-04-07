@@ -1,7 +1,7 @@
 # Time-series-forecasting
 Time series forecasting with the Chronos model from Amazon
 
-
+## License
 The package I got the data from follows a BSD-3-Clause license:
 Copyright (c) 2023-present, Wenjie Du
 All rights reserved.
@@ -34,7 +34,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 
 
-References
+## References
 Model: Ansari, A. F., Stella, L., Turkmen, C., Zhang, X., Mercado, P., Shen, H., Shchur, O., Rangapuram, S. S., Pineda Arango, S., Kapoor, S., Zschiegner, J., Maddix, D. C., Mahoney, M. W., Torkkola, K., Wilson, A. G., Bohlke-Schneider, M., & Wang, Y. (2024). Chronos: Learning the language of time series. arXiv preprint arXiv:2403.07815.
   
 Dataset:  Du, W. (2023). PyPOTS: A Python toolbox for data mining on Partially-Observed Time Series. arXiv preprint arXiv:2305.18811. https://doi.org/10.48550/arXiv.2305.18811
