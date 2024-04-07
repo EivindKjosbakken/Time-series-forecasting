@@ -36,6 +36,8 @@ POSSIBILITY OF SUCH DAMAGE.
 
 References
 Model: Ansari, A. F., Stella, L., Turkmen, C., Zhang, X., Mercado, P., Shen, H., Shchur, O., Rangapuram, S. S., Pineda Arango, S., Kapoor, S., Zschiegner, J., Maddix, D. C., Mahoney, M. W., Torkkola, K., Wilson, A. G., Bohlke-Schneider, M., & Wang, Y. (2024). Chronos: Learning the language of time series. arXiv preprint arXiv:2403.07815.
+  
 Dataset:  Du, W. (2023). PyPOTS: A Python toolbox for data mining on Partially-Observed Time Series. arXiv preprint arXiv:2305.18811. https://doi.org/10.48550/arXiv.2305.18811
+  
 Dataset provider:  Silva I, Moody G, Scott DJ, Celi LA, Mark RG. Predicting In-Hospital Mortality of ICU Patients: The PhysioNet/Computing in Cardiology Challenge 2012. Comput Cardiol (2010). 2012;39:245–248. PMID: 24678516; PMCID: PMC3965265.
 
